@@ -1,5 +1,5 @@
 ### Hi there, Welcome to the Github profile of [Mfficiency][website]
----
+
 
 <br />
 
@@ -12,7 +12,6 @@ The core values of Mfficiency are:
 <br />
 
 ### Projects
----
 - [Chronize][chronize-gh]
 
 <br />
