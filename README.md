@@ -1,4 +1,5 @@
 ### Hi there, Welcome to the Github profile of [Mfficiency][website]
+---
 
 <br />
 
@@ -10,12 +11,17 @@ The core values of Mfficiency are:
 
 <br />
 
-### Connect with me:
-[:email:](mailto:info@mfficiency.com)
+### Projects
+---
+- [Chronize][chronize-gh]
+
+<br />
+
+[<img align="left" alt="Mfficiency.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:info@mfficiency.com)
 [<img align="left" alt="Mfficiency.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
-
-
-[website]: http://www.mfficiency.com/
+[chronize-gh]: https://mfficiency.github.io/Chronize/
 [mail]: mailto:info@mfficiency.com
+[website]: http://www.mfficiency.com/
+
