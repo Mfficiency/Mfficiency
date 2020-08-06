@@ -1,15 +1,12 @@
 ### Hi there, Welcome to the Github profile of [Mfficiency][website]
 
 
-<br />
-
 The core values of Mfficiency are:
 - Efficiency
 - Automation
 - Scalability
 - and last but not least Open source
 
-<br />
 
 ### Projects
 - [Chronize][chronize-gh]
