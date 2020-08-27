@@ -10,6 +10,7 @@ The core values of Mfficiency are:
 
 ### Projects
 - [Chronize][chronize-gh]
+- [Appartement Automation][appaauto-gh]
 
 <br />
 <br />
@@ -19,6 +20,7 @@ The core values of Mfficiency are:
 
 
 [chronize-gh]: https://mfficiency.github.io/Chronize/
+[appaauto-gh]: https://github.com/Mfficiency/AppartementAutomation/
 [mail]: mailto:info@mfficiency.com
 [website]: http://www.mfficiency.com/
 
