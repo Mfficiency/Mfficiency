@@ -5,7 +5,7 @@ The core values of Mfficiency are:
 - Efficiency
 - Automation
 - Scalability
-- and last but not least Open source
+- and last but not least, Open source
 
 
 ### Projects
